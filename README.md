@@ -8,8 +8,8 @@ Link video
 [Deployado-DanielaEstupinan](https://youtu.be/0i2AwDSVXEI)
 
 ### Repositories
-- [Client-Frontend](https://github.com/Daniela-Estupinan/chat-bot-dbem).
-- [Server -Backend](https://github.com/Daniela-Estupinan/chat-bot-server/tree/09f0400f7911ab4b6e652865a49c6cbae31c193a).
+- [Full Proyect](https://github.com/Daniela-Estupinan/chat-bot-dbem).
+- [Server -Backend](https://github.com/Daniela-Estupinan/chat-bot-server).
 
 
 ## Deployment Client
